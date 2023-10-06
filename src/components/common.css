@@ -1,0 +1,38 @@
+.main{
+    background-color: greenyellow;
+    padding: 10px;
+}
+.sub{
+    background-color: skyblue;
+    color: white;
+    border: 5px solid brown;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+}
+table{
+    width: 100%;
+    background-color: gray;
+    border: 3px solid black;
+}
+td{
+border-bottom: 2px solid black;
+padding: 10px;
+}
+b{
+    background-color: wheat;
+    color: brown;
+}
+input{
+    width: 30%;
+    padding: 10px;
+    margin: 5px;
+    font-weight: bold;
+}
+button{
+    width: 20%;
+    font-weight: bold;
+    padding: 10px;
+
+}
